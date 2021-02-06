@@ -6,6 +6,7 @@ import { Container } from './styles';
 
 import Logo from '../../assets/logo.svg';
 
+
 interface HeaderProps {
   size?: 'small' | 'large';
 }
